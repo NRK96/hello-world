@@ -1,2 +1,3 @@
 # hello-world
-A simple programs that outputs Hello World! to the console.
+A simple program that outputs Hello World! to the console.
+Just following the tutorials instuctions!
